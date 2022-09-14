@@ -1,0 +1,10 @@
+{
+    "Name": "Development of MRgFUS system for precision-targeted neuromodulation of pain circuits with simultaneous functional MRI. We provide two category of fMRI (EPI) data sets acquired using two stimulus paradigms i.e., Two and three-stimulus condition data 1) Heat & Heat+FUS (sub-01-03, 20-runs) and 2) Heat, Heat+FUS & FUS (sub-04&05). FUS VPL nuclei located in the right Thalamus during simultaneous Heat+FUS and FUS only conditions. Total acquisition time was 674 and 996 seconds for 2 and 3 condition data. Alternate Heat and Heat+FUS was presented in the two stimulus condition data for 16 & 30 secs (stimulus on & off). Stimulus on time for both conditions are Heat: 30 122 214 306 398 490 and 582sec and Heat+FUS: 76 168 260 352 444 536 628sec. However 3-conditions data was acquired with a randomized stimulus paradigm where stimulus presentation timings are as follows. Heat: 30 168 398 490 628 812 858sec., Heat+FUS: 76 260 306 444 674 766 904sec. and FUS: 122 214 352 536 582 720 950sec. With TR = 2.0secs an ascending and interleaved slice timing acquisition protocol was followed to acquire EPI data",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Charles Caskey"
+    ],
+    "DatasetDOI": "NIH-1U18EB029351-01openneuro.ds004228.v1.0.0"
+}
