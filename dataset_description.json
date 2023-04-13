@@ -8,5 +8,6 @@
         "Charles Caskey"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004265.v1.1.0",
-    "Funding": []
+    "Funding": [],
+    "HowToAcknowledge": "All procedures were conducted in accordance with National Institutes of Health guidelines and were approved by the Institutional Animal Care and Use Committee of Vanderbilt University"
 }
