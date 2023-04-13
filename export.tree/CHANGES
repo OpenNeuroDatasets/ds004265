@@ -1,0 +1,8 @@
+1.1.1 2023-04-13
+  - Resting state data added to the current stimulus series. Both stimulus and resting state data undergone motion and slice timing correction.
+1.1.0 2022-10-06
+  - Changes in the datasets
+1.0.1 2022-09-15
+  - Minor modification
+1.0.0 2022-09-14
+  - Minor changes
