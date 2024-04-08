@@ -3,7 +3,7 @@ The functional MRI data were acquired as read out to understand targeted neuromo
 ## In the current version resting state data for six more subjects are added.
 The recently published work on stimulus data can be seen at
 
-Mishra A, Yang PF, Manuel TJ, et al. Disrupting nociceptive information processing flow through transcranial focused ultrasound neuromodulation of thalamic nuclei. Brain Stimul. Sep 21 2023;doi:10.1016/j.brs.2023.09.013
+Mishra Arabinda, Yang PF, Manuel TJ, et al. Disrupting nociceptive information processing flow through transcranial focused ultrasound neuromodulation of thalamic nuclei. Brain Stimul. Sep 21 2023;doi:10.1016/j.brs.2023.09.013
  
 Processing pipeline (Registration and normalization to NMT2.0 template):
 1.	Motion and slice time correction (mcflirt and slicetimer:) perform using FSL.
@@ -13,3 +13,5 @@ Processing pipeline (Registration and normalization to NMT2.0 template):
 3.	Each functional run is then registered to anatomic image (flirt).
 
 4.	Anatomic image is then registered to template (non-rigid using fnirt in 2 steps affine transformation matrix estimated using flirt) and warping is applied to the 4D data sets. An ANTs alternative is also used for non-rigid registration.
+
+Basic Processing tools will be added soon
