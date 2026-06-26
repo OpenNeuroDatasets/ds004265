@@ -1,0 +1,6 @@
+{
+  "TaskName": "Optical interleaved 30s baseline + (6 ON blue +24 OFF+6 ON green +24 OFF at S2)",
+  "RepetitionTime": 3.0,
+  "Slice Timing": "Ascending & Interleaved"
+}
+
