@@ -1,0 +1,15 @@
+{
+  "TaskName": "working_memory",
+  "TaskDescription": "Participants performed an N-back working memory task.",
+  "Instructions": "Press the button when the current letter matches the letter presented two trials ago.",
+  "CogAtlasID": "http://cognitiveatlas.org",
+  "RepetitionTime": 2.0,
+  "EchoTime": 0.03,
+  "FlipAngle": 80,
+  "SliceTiming": [
+    0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9
+  ],
+  "PhaseEncodingDirection": "j-",
+  "Manufacturer": "SIEMENS",
+  "ManufacturersModelName": "Prisma_fit"
+}
