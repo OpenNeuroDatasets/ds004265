@@ -1,0 +1,10 @@
+{
+    "Name": " MRI safety monitoring of low intensity Focused Ultrasound exposure at three brain locations",
+    "Data Description": "MRI-guided transcranial focused ultrasound stimulation (FUS) neuromodulation provides real-time feedback on ultrasound beam location and target engagement using MR acoustic radiation force imaging (MR-ARFI) and functional MRI. As FUS is being explored as a neuromodulation tool, it is crucial to establish the safety range for repeated sonication exposure during ARFI and FUS procedures. Here, we report no evidence of tissue damage at the three targeted brain regions, as assessed by susceptibility-weighted imaging (SWI) and fluid-attenuated inversion recovery (FLAIR) MRI images, which are sensitive to detecting microbleeds, edema, lesions, and other abnormalities. Six macaque monkeys underwent repeated neuromodulation studies targeting the thalamic ventroposterior lateral (VPL) nucleus, anterior cingulate cortex (ACC), and periaqueductal gray (PAG). SWI and FLAIR images were acquired during each session. MRI signals extracted from each of the targets were quantified and compared to a control region of interest (ROI) with similar tissue properties. Signal variability within two standard deviations was considered a negative observation, indicating no detectable damage. The data acquisition interval and monitoring frequency ranged from two weeks to over a year. In summary, we did not detect damage from repeated sonication of cortical, deep brain, and brainstem regions exposed to repeated FUS neuromodulation and ARFI pulses using SWI and FLAIR MRI. This establishes a potential safety profile for future clinical applications using the same MR-guided FUS protocols.  ",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Charles Caskey"
+    ],
+    "DatasetDOI": "NIH-1U18EB029351-01openneuro.ds004228.v2.0.0"
+}
