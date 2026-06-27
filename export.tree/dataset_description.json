@@ -1,0 +1,16 @@
+{
+    "Name": "Longitudinal FLAIR and SWI data with Anatomic T1w Images",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "Philips",
+    "BodyPart": "Brain",
+    "InstitutionName": "VUIIS",
+    "InstitutionAddress": "VUMC, Nashville, TN",
+    "Authors": [
+        "Charles Caskey",
+        "Arabinda Mishra"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004265.v1.1.5"
+}
