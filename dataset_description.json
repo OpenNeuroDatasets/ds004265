@@ -1,0 +1,12 @@
+{
+  "Name": "Macaque Brain T1w and FLAIR",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Philips",
+  "BodyPart": "Brain",
+  "InstitutionName": "VUIIS",
+  "InstitutionAddress": "VUMC, Nashville, TN",
+  "Authors": "Charles Caskey"
+}
