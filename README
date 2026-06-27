@@ -6,7 +6,9 @@ MRI-guided transcranial focused ultrasound stimulation (FUS) neuromodulation pro
 ## Data users may acknowledge.
 
 M. Anthony Phipps, et. al., Magnetic Resonance Imaging Monitoring of the Safety of Repeated Low-Intensity Focused Ultrasound Exposure at Three Brain Locations. Neuromodulation 2026 Feb;29(2):243-254.  doi: 10.1016/j.neurom.2025.09.313
+
 Mishra Arabinda, Yang PF, Manuel TJ, et al. Disrupting nociceptive information processing flow through transcranial focused ultrasound neuromodulation of thalamic nuclei. Brain Stimul. Sep 21 2023;doi:10.1016/j.brs.2023.09.013
+
 Mishra A, Yang PF, Manuel TJ, et al. Modulating nociception networks: the impact of low-intensity focused ultrasound on thalamocortical connectivity. Brain Commun. Published online February 8, 2025. doi:10.1093/BRAINCOMMS/FCAF062
  
 Processing pipeline (Registration and normalization to NMT2.0 template):
