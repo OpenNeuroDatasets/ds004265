@@ -1,0 +1,13 @@
+{
+    "Name": "In vivo 700 um isotropic COSMOS dataset at 3T",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Charles Caskey",
+        "Arabinda Mishra"
+    ],
+    "Acknowledgements": "Data acquisition was performed at the Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital and Harvard Medical School.",
+    "HowToAcknowledge": "Please acknowledge the Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital and Harvard Medical School when using this dataset.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007958.v1.0.1"
+}
