@@ -1,0 +1,10 @@
+{
+  "Name": "T1w Anatomic",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Philips",
+  "Repetition Time": 2,
+  "InstitutionName": "VUIIS",
+  "InstitutionAddress": "VUMC, Nashville, TN",
+  "BodyPart": "Macaque Brain",
+  "Units": "arbitrary"
+}
