@@ -1,16 +1,5 @@
-{
-  "Name": "Longitudinal FLAIR and SWI data with Anatomic T1w Images",
-  "BIDSVersion": "1.10.0",
-  "DatasetType": "raw",
-  "License": "CC0",
-  "MagneticFieldStrength": 3,
-  "Manufacturer": "Philips",
-  "BodyPart": "Brain",
-  "InstitutionName": "VUIIS",
-  "InstitutionAddress": "VUMC, Nashville, TN",
-  "Authors": [
-        "Charles Caskey",
-        "Arabinda Mishra"
-    ],
-   "DatasetDOI": "doi:10.18112/openneuro.ds004265.v1.1.3"
-}
+Safety Data (FLAIR/SWI structural Images):
+FUS is being explored as a neuromodulation tool, it is crucial to establish the safety range for repeated sonication exposure during ARFI and FUS procedures. Here, we report no evidence of tissue damage at the three targeted brain regions, as assessed by susceptibility-weighted imaging (SWI) and fluid-attenuated inversion recovery (FLAIR) MRI images, which are sensitive to detecting microbleeds, edema, lesions, and other abnormalities. Six macaque monkeys underwent repeated neuromodulation studies targeting the thalamic ventroposterior lateral (VPL) nucleus, anterior cingulate cortex (ACC), and periaqueductal gray (PAG). SWI and FLAIR images were acquired during each session. MRI signals extracted from each of the targets were quantified and compared to a control region of interest (ROI) with similar tissue properties. Signal variability within two standard deviations was considered a negative observation, indicating no detectable damage. The data acquisition interval and monitoring frequency ranged from two weeks to over a year. In summary, we did not detect damage from repeated sonication of cortical, deep brain, and brainstem regions exposed to repeated FUS neuromodulation and ARFI pulses using SWI and FLAIR MRI. This establishes a potential safety profile for future clinical applications using the same MR-guided FUS protocols.
+
+Phipps, M. A., A. Mishra, C. L. Donovan, A. T. Newton, C. D. McKnight, A. Q. Dockum, M. K. Sigona, P. F. Yang, C. F. Caskey and L. M. Chen (2026). "Magnetic Resonance Imaging Monitoring of the Safety of Repeated Low-Intensity Focused Ultrasound Exposure at Three Brain Locations." Neuromodulation 29(2): 243–254.
+Mishra A, Yang PF, Manuel TJ, et al. Disrupting nociceptive information processing flow through transcranial focused ultrasound neuromodulation of thalamic nuclei. Brain Stimul. 2023;16(5):1430-1444. doi:10.1016/J.BRS.2023.09.013
